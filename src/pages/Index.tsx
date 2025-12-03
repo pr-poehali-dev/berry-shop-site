@@ -58,7 +58,7 @@ const Index = () => {
       name: 'Ежевика лесная',
       price: 790,
       unit: '500г',
-      image: 'https://cdn.poehali.dev/projects/5c9af21e-1e33-495f-a71b-054b082d8593/files/207cfe2d-9195-4a16-94d1-6e8db3821fc5.jpg',
+      image: 'https://cdn.poehali.dev/projects/5c9af21e-1e33-495f-a71b-054b082d8593/files/1030ce55-86a4-40e9-a7a9-39f25e38d295.jpg',
       description: 'Ароматная ежевика с насыщенным вкусом',
       category: 'Премиум'
     }
